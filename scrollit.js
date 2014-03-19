@@ -24,6 +24,7 @@ var scrollIt = {
   scroll : function(options) {
     var $hb = $('html, body'),
       self = this;
+    
     self.init(options);
     self.isScrolling = true;
     $hb.delay(self.delay).animate({
