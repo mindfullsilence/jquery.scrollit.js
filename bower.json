@@ -1,11 +1,6 @@
 {
   "name": "jquery.scrollit.js",
-  "_cacheHeaders": {
-    "Content-Type": "text/html; charset=utf-8"
-  },
   "main": "jquery.scrollit.js",
-  "_source": "https://gist.github.com/mindfullsilence/cfcc9d99c8c6dd4357b0",
-  "_target": "jquery.scrollit.js/*",
-  "_originalSource": "https://gist.github.com/mindfullsilence/cfcc9d99c8c6dd4357b0",
-  "_direct": true
+  "licence": "MIT",
+  "private": "true"
 }
