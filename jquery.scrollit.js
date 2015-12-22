@@ -1,7 +1,7 @@
 /**
  * Animated scroll of a page. Includes an interrupter that stops the animation
  * if the user scrolls.
- *
+ *a
  * options = {
  *  extraOffset : 0               amount of padding between top of element and window
  *  duration    : 500             Animation duration
